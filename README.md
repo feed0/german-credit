@@ -1,2 +1,1 @@
-UCI German Credit Data 
-https://archive.ics.uci.edu/dataset/144/statlog+german+credit+data
+[Anton Markov et al](https://www.sciencedirect.com/science/article/pii/S2405918822000095) suggest that University of California Irvine's datasets are among the most popular public sources for credit score modeling. I have chosen the [UCI German Credit Data](https://archive.ics.uci.edu/dataset/144/statlog+german+credit+data) to begin with.
