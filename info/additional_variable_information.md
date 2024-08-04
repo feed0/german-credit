@@ -111,3 +111,7 @@ legend = {Q: qualitative, N: numerical}
 20:Q - foreign worker<br>
 - A201 : yes<br>
 - A202 : no<br>
+
+21:N - Target<br>
+- 1 = Good<br>
+- 2 = Bad<br>
