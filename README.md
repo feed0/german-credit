@@ -14,6 +14,8 @@ Train models in order to predict weather a loan is benefitial or not, in other w
 
 ## 1. Logistic Regression
 
-![image](https://github.com/user-attachments/assets/2ac102ca-7439-4da3-b8bc-c917d7939e28)
+![LogRegConfusionMatrix](https://github.com/user-attachments/assets/f7db9635-87d2-498a-9683-e128d0198dc9)
+![LogRegClassificationReport](https://github.com/user-attachments/assets/13f612e6-324c-4d53-964d-e466e2e60f12)
+
 
 Due to some imbalanced columns, the logreg model presents difficulty in predicting "Bad" loans. To overcome this limitation we might consider oversampling the misrepresented categories in these columns.
